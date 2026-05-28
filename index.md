@@ -71,4 +71,4 @@ M.A. in Population, Resources and Environmental Economics
 
 [GitHub](https://github.com/xinranzhou2059)
 
-[LinkedIn] ([Coming Soon](https://www.linkedin.com/in/xinran-zhou6))
+[LinkedIn](https://www.linkedin.com/in/xinran-zhou6)
