@@ -1,19 +1,74 @@
 # Xinran Zhou
 
-<img 
-  src="img/profile.jpg" 
-  alt="Xinran Zhou Portfolio Photo" 
-  width="25%">
+Graduate Student at Colorado State University  
+PSM in Ecosystem Science and Sustainability  
+Focus: Carbon Management & Environmental Data Science
 
-Graduate Student in Ecosystem Science & Sustainability
+---
 
-Colorado State University
+## About Me
 
-Focused on carbon management, environmental data science, and sustainability assessment through life cycle analysis, greenhouse gas accounting, and quantitative environmental-economic research.
+I am interested in:
 
-* [Email](zhou.xinran@colostate.edu)
-* [LinkedIn](https://www.linkedin.com/in/xinran-zhou6)
-* [GitHub](https://github.com/xinranzhou2059)
+- Greenhouse gas accounting
+- Life cycle assessment (LCA)
+- Corporate sustainability
+- Soil carbon management
+- Environmental data science
 
-## Research Interests
-My research interests focus on carbon management, greenhouse gas inventories, life cycle assessment (LCA), and environmental-economic analysis. I am particularly interested in applying quantitative modeling and data-driven methods to support low-carbon decision-making in agriculture and energy systems.
+My current research focuses on synthetic humic substances (SHS), sustainable agriculture, and low-carbon transition pathways.
+
+---
+
+## Technical Skills
+
+### Environmental Analysis
+
+- Life Cycle Assessment (openLCA)
+- GHG Inventories
+- IPCC Methods
+- Corporate Sustainability Reporting
+
+### Data Science
+
+- R
+- GitHub
+- Data Visualization
+- Statistical Analysis
+
+---
+
+## Current Projects
+
+### Synthetic Humic Substance (SHS) Research
+
+- Life cycle assessment of SHS production systems
+- Environmental-economic analysis
+- Carbon mitigation potential analysis
+
+### Environmental Data Science Internship
+
+- Greenhouse gas inventory analysis
+- Sustainability data workflows
+- Environmental modeling support
+
+---
+
+## Education
+
+### Colorado State University
+
+Professional Science Master's  
+Ecosystem Science and Sustainability
+
+### Shandong University
+
+M.A. in Population, Resources and Environmental Economics
+
+---
+
+## Contact
+
+[GitHub](https://github.com/xinranzhou2059)
+
+LinkedIn (Coming Soon)
