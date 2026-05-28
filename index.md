@@ -6,3 +6,5 @@ Colorado State University
 
 Focused on carbon management, environmental data science, and sustainability assessment through life cycle analysis, greenhouse gas accounting, and quantitative environmental-economic research.
 
+* [Email](zhou.xinran@colostate.edu)
+* [LinkedIn](https://www.linkedin.com/in/xinran-zhou6)
