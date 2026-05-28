@@ -1,5 +1,7 @@
 # Xinran Zhou
 
+![Xinran Zhou Portfolio Photo](img/profile.jpg)
+
 Graduate Student in Ecosystem Science & Sustainability
 
 Colorado State University
