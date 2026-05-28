@@ -1,6 +1,9 @@
 # Xinran Zhou
 
-![Xinran Zhou Portfolio Photo](img/profile.jpg)
+<img 
+  src="img/profile.jpg" 
+  alt="Xinran Zhou Portfolio Photo" 
+  width="25%">
 
 Graduate Student in Ecosystem Science & Sustainability
 
